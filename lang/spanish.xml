@@ -65,7 +65,7 @@
 			<Text>Happy cities receive an additional +10% [ICON_SCIENCE] Science and [ICON_PRODUCTION] Production. Ecstatic cities receive an additional +15% [ICON_SCIENCE] Science and [ICON_PRODUCTION] Production. Happy cities generate +1 [ICON_GreatScientist] Great Scientist point per Campus and +1 [ICON_GreatEngineer] Great Engineer point per Industrial Zone. Ecstatic cities double those amounts.</Text>
 		</Replace>		
 		<Replace Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION" Language="en_US">
-			<Text>+1 [ICON_FOOD] Food for [ICON_RESOURCE_CATTLE], [ICON_RESOURCE_RICE], and [ICON_RESOURCE_WHEAT] tiles.</Text>
+			<Text>+1 [ICON_FOOD] Alimento for [ICON_RESOURCE_CATTLE], [ICON_RESOURCE_RICE], and [ICON_RESOURCE_WHEAT] tiles.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION" Language="en_US">
 			<Text>When chosen receive a Builder in your capital. +1 [ICON_FOOD] Food for [ICON_RESOURCE_CATTLE], [ICON_RESOURCE_RICE], [ICON_RESOURCE_WHEAT], and [ICON_RESOURCE_MAIZE] tiles.</Text>
