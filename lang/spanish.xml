@@ -15,7 +15,7 @@
 			<Text>Adquiere una creencia extra cuando funda una religión. Los Colonos y Constructores reciben +1 [ICON_Movement] al Movimiento. +5 [ICON_Faith] de Fe y +1 [ICON_Favor] de Favor Diplomatico por turno por cada civilización (incluida India) con la que se hayan encontrado y que, además de haber fundado una religión, no esté en guerra actualmente. Las civilizaciones opuestas reciben el doble de hastío bélico por luchar contra Ghandi.</Text>
 		</Replace>
 		<Row Tag='LOC_GOVERNOR_PROMOTION_MERCHANT_INVESTOR_DESCRIPTION' Language="sp_SP">
-			<Text>Descuento del 50% [ICON_GOLD] de Oro discount on purchasing buildings and districts (if able) in the city.</Text>
+			<Text>Descuento del 50% [ICON_GOLD] de Oro en la compra de distritos y edificios (si se puede) en la ciudad.</Text>
 		</Row>
 		<!---->
 		<Replace Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION" Language="sp_SP">
@@ -30,19 +30,19 @@
 		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION" Language="sp_SP">
 			<Text>Acquire new tiles in city faster. +4 [ICON_Gold] Gold per turn from each foreign [ICON_TradeRoute] Trade Route passing through the city.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_DESCRIPTION" Language="sp_SP">
 			<Text>This city receives +2 [ICON_Gold] Gold from each unimproved feature and each breathtaking tile. Tiles adjacent to unimproved features receive +1 Appeal in this city.</Text>
 		</Replace>
-		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION" Language="sp_SP">
 			<Text>+2 [ICON_Gold] Gold per turn for each [ICON_Citizen] Citizen in the city and +1 Trade Route capacity while established in any city.</Text>
 		</Replace>
-		<!--<Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="en_US">
+		<!--<Replace Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION" Language="sp_SP">
 			<Text>Byzantine unique Classical Era unit that replaces the Quadrireme and has additional range.</Text>
 		</Replace>-->
-		<Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION" Language="sp_SP">
 			<Text>Recibe +2 [ICON_Strength] Combat Strength for each Holy City converted to your Religion and Byzantium's Religion is spread to nearby cities when a major civilization's unit is defeated (Taxis)</Text>
 		</Replace>
-		<Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION" Language="sp_SP">
 			<Text>Receive +2 [ICON_RELIGION] Religious Strength for each Holy City converted to your Religion.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION" Language="en_US">
@@ -85,38 +85,38 @@
 		<Replace Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_DESCRIPTION" Language="en_US">
 			<Text>Begin the game in an Ocean tile. Gain +1 [ICON_Citizen] Population when settling your first city. The Palace receives +3 [ICON_HOUSING] Housing and +1 [ICON_AMENITIES] Amenity. +2 [ICON_SCIENCE] Science and +2 [ICON_CULTURE] Culture per turn before you settle your first city.</Text>
 		</Replace>
-		<Replace Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION2_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION2_DESCRIPTION" Language="sp_SP">
 			<Text>A district unique to Greece for cultural sites. Replaces the Theater Square district and cheaper to build. Awards 1 [ICON_Envoy] Envoy when Amphitheater is completed.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture bonus for each adjacent district and an additional +1 [ICON_Culture] Culture bonus for adjacent City Center. +2 [ICON_Culture] Culture bonus for each adjacent wonder, Entertainment Complex, and Water Park. Can only be built on Hills.</Text>
 		</Replace>
-		<Replace Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION1_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION1_DESCRIPTION" Language="sp_SP">
 			<Text>A district unique to Greece for cultural sites. Replaces the Theater Square district and cheaper to build. Awards 1 [ICON_Envoy] Envoy when Amphitheater is completed.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture bonus for each adjacent district and an additional +1 [ICON_Culture] Culture bonus for adjacent City Center. +2 [ICON_Culture] Culture bonus for each adjacent wonder. Can only be built on Hills.</Text>
 		</Replace>
-		<Replace Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION" Language="sp_SP">
 			<Text>A district unique to Greece for cultural sites. Replaces the Theater Square district and cheaper to build. Awards 1 [ICON_Envoy] Envoy when Amphitheater is completed.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture bonus for each adjacent district and an additional +1 [ICON_Culture] Culture bonus for adjacent City Center. +2 [ICON_Culture] Culture bonus for each adjacent wonder. Can only be built on Hills.</Text>
 		</Replace>		
-		<Replace Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY" Language="en_US">
+		<Replace Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY" Language="sp_SP">
 			<Text>Adjacency: Standard [ICON_Culture] Culture bonus for adjacent City Center. Standard [ICON_Culture] Culture bonus for each adjacent district. Major [ICON_Culture] Culture bonus for each adjacent wonder. Can only be built on Hills.</Text>
 		</Replace>
 
-		<Replace Tag="LOC_BUILDING_GOV_CITYSTATES_EXPANSION2_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_BUILDING_GOV_CITYSTATES_EXPANSION2_DESCRIPTION" Language="sp_SP">
 			<Text>+3 [ICON_Favor] Diplomatic Favor. Leveraging City States costs half [ICON_Gold] Gold.[NEWLINE]City State units gain +4 [ICON_Strength] Combat Strength if you are the City State's Suzerain (including Leveraged Units).[NEWLINE]Awards +1 [Icon_Governor] Governor Title. +2 envoys and +2 influence per turn towards envoys.</Text>
 		</Replace>
-		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION" Language="en_US"> <!-- Last update: 4.2.0-->
+		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION" Language="sp_SP"> <!-- Last update: 4.2.0-->
 			<Text>Unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Amenity, +2 [ICON_GOLD] Gold, and +1 [ICON_CULTURE] Culture. +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture if adjacent to a City Center district. +1 [ICON_AMENITIES] Amenity and +1 [ICON_CULTURE] Culture if adjacent to an Entertainment Complex district. Additional [ICON_CULTURE] Culture, [ICON_GOLD] Gold, [ICON_TOURISM] Tourism, and [ICON_HOUSING] Housing as you advance through the Civics and Technology Trees. Cannot be placed on Desert or Desert Hills. One per City. Tiles with Golf Courses cannot be swapped. +1 Appeal.</Text>
 		</Replace>		
 		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION" Language="en_US"> <!-- Last update: 4.2.0-->
 			<Text>Unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Amenity, +2 [ICON_GOLD] Gold, and +1 [ICON_CULTURE] Culture. +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture if adjacent to a City Center district. +1 [ICON_AMENITIES] Amenity and +1 [ICON_CULTURE] Culture if adjacent to an Entertainment Complex district. Additional [ICON_CULTURE] Culture, [ICON_GOLD] Gold, [ICON_TOURISM] Tourism, and [ICON_HOUSING] Housing as you advance through the Civics and Technology Trees. Cannot be placed on Desert or Desert Hills. One per City. Tiles with Golf Courses cannot be swapped. +1 Appeal.</Text>
 		</Replace>
 		<!--
-		<Replace Tag="ABILITY_WAR_CART_CAPTURE_DESCRIPTION_BBG" Language="en_US">
+		<Replace Tag="ABILITY_WAR_CART_CAPTURE_DESCRIPTION_BBG" Language="sp_SP">
 			<Text>May capture defeated city-state and barbarian units.</Text>
 		</Replace>
 		
-		<Replace Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION" Language="sp_SP">
 			<Text>Sumerian unique Classical era unit that replaces the Heavy Chariot and is unlocked at Horseback Riding. Has a chance to capture defeated City-State units. No penalties against anti-cavalry units and ignores Zone of Control. +1 [ICON_Movement] Movement if this unit starts on flat terrain.</Text>
 		</Replace>
 		-->
-		<Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="en_US">
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="sp_SP">
 			<Text>All units have +1 sight. Promoting Light Cavalry units do not end their turn.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION" Language="en_US">
@@ -1413,31 +1413,31 @@
 			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit. (on Online Speed)[NEWLINE][ICON_Strength] Combat Strength +1 for each Military policy slot in your government.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_JOAO_III_DESCRIPTION" Language="en_US">
-			<Text>All units receive +1 sight. +1 [ICON_TradeRoute] Trade Route capacity when entering a new era (ancient era included). Open Borders with all city-states.</Text>
+			<Text>Todas las unidades reciben +1 a la Visión. +1 [ICON_TradeRoute] a la capacidad de Rutas Comerciales cuando entra en una nueva era (Edad Antigua incluida). Apertura de fronteras con todas las ciudades-estado.</Text>
 		</Replace>
 		<Row Tag="LOC_BBG_GORGO_COMBAT_ABILITY_DESCRIPTION" Language="en_US">
-      		<Text>[ICON_Strength] Combat Strength +1 for each Military policy slot in your government.</Text>
+      		<Text>[ICON_Strength] +1 a la Fuerza de Combate por cada espacio de Política Militar en tu gobierno.</Text>
 		</Row>
 		<Row Tag="BBG_GORGO_GOVERNMENT_COMBAT_BONUS" Language="en_US">
-			<Text>Military policy slot : +{1_Value}.</Text>
+			<Text>espacio de Política Militar : +{1_Value}.</Text>
 		</Row>
 		<Replace Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION" Language="en_US">
-      		<Text>English unique Industrial era unit when Victoria is their leader that replaces the Line Infantry. +5 [ICON_Strength] Combat Strength when fighting on a continent other than that of your capital's. No disembark cost.</Text>
+      		<Text>Unidad exclusiva de Inglaterra en la Revolución Industrial cuando Victoria es su líder que sustituye la Infantería de Línea. +5 [ICON_Strength] de Fuerza de Combate cuando luchan en un continente distinto al de tu capital. No tiene coste de desembarque.</Text>
     	</Replace>
 		<Replace Tag="LOC_BUILDING_FILM_STUDIO_EXPANSION2_DESCRIPTION" Language="en_US">
-      		<Text>A building unique to America. +50% [ICON_Tourism] Tourism pressure from this city towards other civilizations when the game enters the Modern era.</Text>
+      		<Text>Un edificio exclusivo de los Estados Unidos. +50% [ICON_Tourism] a la presión del Turismo desde esta ciudad hacia otras civilizaciones cuando el juego entra en la Época Moderna.</Text>
     	</Replace>
 		<Replace Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION" Language="en_US">
-      		<Text>French unique Industrial era melee unit that replaces the Line Infantry. +5 [ICON_Strength] Combat Strength when fighting on your capital's continent. [ICON_GreatGeneral] Great General points for killing units.</Text>
+      		<Text>Unidad cuerpo a cuerpo exclusiva de Francia de la Revolución Industrial que sustituye a la Infantería de Línea. +5 [ICON_Strength] de Fuerza de Combate cuando lucha en el continente de su capital. [ICON_GreatGeneral] puntos de Gran General por matar unidades.</Text>
     	</Replace>
 		<Replace Tag="LOC_BUILDING_PRASAT_EXPANSION2_DESCRIPTION" Language="en_US">
-      		<Text>+6 [ICON_FAITH] Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. +0.3 [ICON_Culture] Culture for every [ICON_CITIZEN] population in this city. Once Flight is researched receive +10 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +20 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher.</Text>
+      		<Text>+6 [ICON_FAITH] a la Fe. Un edificio exclusivo de los jemeres. Sustituye al Templo. Necesario para comprar Apóstoles e Inquisidores con [ICON_Faith] Fe. +0.3 [ICON_Culture] a Cultura por cada [ICON_CITIZEN] unidad de Población en esta ciudad. Después de investigar Vuelo, recibe +10 [ICON_Tourism] de Turismo [ICON_CITIZEN] si la Población es de 10 o superior y +20 [ICON_Tourism] de Turismo [ICON_CITIZEN] si la Población es de 20 o más.</Text>
     	</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION2_DESCRIPTION" Language="en_US">
       		<Text>Cities with an Aqueduct receive +1  [ICON_AMENITIES] Amenity from entertainment and +0.5 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
     	</Replace>
 		<Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="en_US">
-      		<Text>+10 [ICON_Strength] Combat Strength when besieging districts.[NEWLINE][ICON_Bullet] +50% Support Bonus.</Text>
+      		<Text>+10 [ICON_Strength] de Fuerza de Combate al sitiar distritos.[NEWLINE][ICON_Bullet] +50% Bonus de Soporte.</Text>
     	</Replace>
 
 		<Replace Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS" Language="en_US">
@@ -1447,7 +1447,7 @@
       		<Text>Form 3 Line infantries.</Text>
     	</Replace>
 		<Replace Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_DESCRIPTION" Language="en_US">
-      		<Text>A district unique to Brazil that doesn't cost a district population slot. Replaces the Water Park district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.</Text>
+      		<Text>Un distrito exclusivo de Brasil que no cuesta espacio de distrito de ciudadanos. Sustituye al Parque acuático y proporciona +2 [ICON_Amenities] a Servicios. También desbloquea el proyecto del Carnaval, que concede +1 [ICON_Amenities] de Servicios adicionales cuando se inicia y diversos [ICON_GreatPerson] puntos de Gran Personaje cuando se completa. No se puede construir en una ciudad con un Carnaval Callejero ni sobre un Arrecife.</Text>
     	</Replace>
     	<Replace Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION2_DESCRIPTION" Language="en_US">
       		<Text>A district unique to Brazil that doesn't cost a district population slot. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Copacabana.</Text>
