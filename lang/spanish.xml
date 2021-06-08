@@ -49,7 +49,7 @@
 			<Text>Units receive +2 [ICON_Strength] Combat Strength or [ICON_Religion] Religious Strength for each Holy City converted to Byzantium's Religion (including Byzantium's Holy City). Byzantium's Religion is spread to nearby cities when an enemy civilization or city-state unit is defeated. +1 [ICON_GreatProphet] Great Prophet point from cities with a Holy Site district.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_CHANCERY_DESCRIPTION" Language="en_US">
-			<Text>+3 Influence Points per turn. When this civilization captures or kills an enemy Spy, receive 200 [ICON_Science] Science (on Standard Speed) for every level of the enemy Spy.</Text>
+			<Text>+3 Puntos de Influencia por turno. Cuando esta civilización captura o mata un espía enemigo, recibe 200 [ICON_Science] a Ciencia (en velocidad Estándar) por cada nivel del espía enemigo.</Text>
 		</Replace>
 
 		<Replace Tag="LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION" Language="en_US">
@@ -1308,18 +1308,18 @@
 		<Replace Tag="BBG_FRONT_VICTORY_DOMINATION_SETTING_2_DESC" Language="en_US">
 			<Text>50% of Emerged Lands in your empire</Text>
 		</Replace>
-		<Replace Tag="BBG_FRONT_VICTORY_DOMINATION_SETTING_3_DESC" Language="en_US">
-			<Text>No Territorial Victory</Text>
+		<Replace Tag="BBG_FRONT_VICTORY_DOMINATION_SETTING_3_DESC" Language="sp_SP">
+			<Text>No Victoria Territorial</Text>
 		</Replace>
-		<Replace Tag="BBG_FRONT_VICTORY_CONQUEST_SETTING_0_DESC" Language="en_US">
-			<Text>Standard Firaxis Settings: All Capitals Captured</Text>
+		<Replace Tag="BBG_FRONT_VICTORY_CONQUEST_SETTING_0_DESC" Language="sp_SP">
+			<Text>Configuración Estándar de Firaxis: Todas las capitales capturadas</Text>
 		</Replace>
-		<Replace Tag="BBG_FRONT_VICTORY_CONQUEST_SETTING_3_DESC" Language="en_US">
-			<Text>No Conquest Victory</Text>
+		<Replace Tag="BBG_FRONT_VICTORY_CONQUEST_SETTING_3_DESC" Language="sp_SP">
+			<Text>No Victoria por Conquista</Text>
 		</Replace>
 		
 		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_TT" Language="en_US">
-			<Text>Use your military and empire growth to your advantage to dominate the lands!</Text>
+			<Text>Use tu fuerza militar y el crecimiento de tu imperio para dominar todo el territorio!</Text>
 		</Replace>
 		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_PROGRESS" Language="en_US">
 			<Text>% of emerged land controlled</Text>
@@ -1330,55 +1330,55 @@
 		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_TAB" Language="en_US">
 			<Text>Territorial</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORYSTATUS_TRADITIONAL_DOMINATION_PANEL_HEADER" Language="en_US">
-			<Text>Territorial Victory</Text>
+		<Replace Tag="LOC_VICTORYSTATUS_TRADITIONAL_DOMINATION_PANEL_HEADER" Language="sp_SP">
+			<Text>Victoria Territorial</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_NAME" Language="en_US">
-			<Text>Territorial Victory</Text>
+		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_NAME" Language="sp_SP">
+			<Text>Victoria Territorial</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_SUBHEADER" Language="en_US">
-			<Text>TERRITORIAL VICTORY</Text>
+		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_SUBHEADER" Language="sp_SP">
+			<Text>VICTORIA TERRITORIAL</Text>
 		</Replace>
-		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_VICTORY" Language="en_US">
-			<Text>TERRITORIAL VICTORY</Text>
+		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_VICTORY" Language="sp_SP">
+			<Text>VICTORIA TERRITORIAL</Text>
 		</Replace>
-		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_PROGRESS" Language="en_US">
-			<Text>TERRITORIAL Progress</Text>
+		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_PROGRESS" Language="sp_SP">
+			<Text>Progreso TERRITORIAL</Text>
 		</Replace>
 		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_DESCRIPTION" Language="en_US">
 			<Text>To achieve a [COLOR:ResMilitaryLabelCS]TERRITORIAL[ENDCOLOR] victory, you need to expand your empire and conquer your foes to control the largest amount of emerged lands.[NEWLINE][NEWLINE]A strong military is highly recommended.</Text>
 		</Replace>
-		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_DESC_LAST" Language="en_US">
+		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_DESC_LAST" Language="sp_SP">
 			<Text>[NEWLINE][NEWLINE]Required amount of total emerged owned to win:  </Text>
 		</Replace>
-		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_TT" Language="en_US">
+		<Replace Tag="LOC_WORLD_RANKINGS_TRADITIONAL_DOMINATION_TT" Language="sp_SP">
 			<Text>Land tiles owned:</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_TEXT" Language="en_US">
-			<Text>The world recognizes your absolute domination, for you built an empire on which the sun never sets.</Text>
+		<Replace Tag="LOC_VICTORY_TRADITIONAL_DOMINATION_TEXT" Language="sp_SP">
+			<Text>El mundo reconoce tu absoluta dominación, por haber construido un imperio donde el sol nunca se pone.</Text>
 		</Replace>
 		
 		
 		<!-- Conquest legacy text -->
-		<Replace Tag="LOC_WORLD_RANKINGS_DOMINATION_TAB" Language="en_US">
+		<Replace Tag="LOC_WORLD_RANKINGS_DOMINATION_TAB" Language="sp_SP">
 			<Text>Conquest</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORYSTATUS_DOMINATION_PANEL_HEADER" Language="en_US">
+		<Replace Tag="LOC_VICTORYSTATUS_DOMINATION_PANEL_HEADER" Language="sp_SP">
 			<Text>Conquest Victory</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORY_DOMINATION_NAME" Language="en_US">
+		<Replace Tag="LOC_VICTORY_DOMINATION_NAME" Language="sp_SP">
 			<Text>Conquest Victory</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORY_CONQUEST_NAME" Language="en_US">
-			<Text>Conquest Victory</Text>
+		<Replace Tag="LOC_VICTORY_CONQUEST_NAME" Language="sp_SP">
+			<Text>Victoria por Conquista</Text>
 		</Replace>
-		<Replace Tag="LOC_VICTORY_DOMINATION_SUBHEADER" Language="en_US">
-			<Text>CONQUEST VICTORY</Text>
+		<Replace Tag="LOC_VICTORY_DOMINATION_SUBHEADER" Language="sp_SP">
+			<Text>VICTORIA POR CONQUISTA</Text>
 		</Replace>
-		<Replace Tag="LOC_WORLD_RANKINGS_DOMINATION_VICTORY" Language="en_US">
-			<Text>CONQUEST VICTORY</Text>
+		<Replace Tag="LOC_WORLD_RANKINGS_DOMINATION_VICTORY" Language="sp_SP">
+			<Text>VICTORIA POR CONQUISTA</Text>
 		</Replace>
-		<Replace Tag="LOC_WORLD_RANKINGS_DOMINATION_PROGRESS" Language="en_US">
+		<Replace Tag="LOC_WORLD_RANKINGS_DOMINATION_PROGRESS" Language="sp_SP">
 			<Text>Conquest Progress</Text>
 		</Replace>
 		<Replace Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS" Language="en_US">
